@@ -17,4 +17,9 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/rzaaeeff"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
+
+<p>
+  <a href="mailto:rzaaeeff@gmail.com"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" alt="Gmail"></a>
+</p>
+
 <img src="https://github-readme-stats.vercel.app/api?username=rzaaeeff&show_icons=true&count_private=true&theme=onedark">
